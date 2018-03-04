@@ -9,7 +9,7 @@ class App extends Component {
   state = {
     ctx:null,
     freq:250,
-    gain: 1
+    gain: 0.4
   }
 
   componentDidMount() {

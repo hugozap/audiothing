@@ -29,7 +29,7 @@ export default class OscilatorControls extends React.Component {
 		return (
 			<Box>
 				<StyledKnob unlockDistance={0} preciseMode={false} min={0} max={1} step={0.1} value={this.props.gain} onChange={this.props.onGainChange} />
-				<StyledKnob unlockDistance={0} preciseMode={false} min={0} max={400} value={this.props.freq} onChange={this.props.onFreqChange} />
+				<StyledKnob unlockDistance={0} preciseMode={false} min={0} max={600} value={this.props.freq} onChange={this.props.onFreqChange} />
 			</Box>
 		);
 	}
