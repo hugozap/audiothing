@@ -1,5 +1,4 @@
-Example of [react-rotary-knob](https://github.com/hugozap/react-rotary-knob).
+Example of [react-rotary-knob](https://github.com/hugozap/react-rotary-knob)
+that uses Audio Web Api to control Oscillator Gain and Frequency.
 
-The knobs are large so it works on mobile browsers.
-
-[Open it online](https://hugozap.neocities.org/audiothing) [ Careful, loud!]
+[Open it online](http://audio-thing2.surge.sh/)
